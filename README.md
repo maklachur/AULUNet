@@ -1,7 +1,9 @@
 # AULUNet
 This is our official code repository for **"AULUNet: An Adaptive Ultra-Lightweight UNet Framework for Efficient Skin Lesion Segmentation in Resource-Constrained Environments"**.
-It covers environment creation, installing dependencies, preparing datasets, training, and testing
+It covers environment setup, installing dependencies, preparing datasets, and training and testing.
 
+---
+![Ranking Graph](./assets/bmvc25_ranking.png)
 ---
 
 ## 1. Environment Setup & Install Dependencies
