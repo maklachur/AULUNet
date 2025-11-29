@@ -33,7 +33,7 @@ It covers environment setup, installing dependencies, preparing datasets, and tr
    python -c "import torch; print(torch.__version__); print(torch.cuda.is_available())"
    ```
    - Expected output includes a PyTorch version and `True` for CUDA availability.
-   - If `False`, confirm you have correct NVIDIA drivers and CUDA.
+   - If `False`, confirm you have the correct NVIDIA drivers and CUDA.
 
 ---
 
@@ -48,6 +48,7 @@ pip install h5py
 conda install scipy==1.2.1
 pip install pillow
 ```
+You can follow the UltraLight-VM-UNet for data preparation. 
 
 ### ISIC2017
 1. Download from [ISIC 2017 Challenge](https://challenge.isic-archive.com/data).
@@ -111,7 +112,8 @@ python train.py
 
 ## 4. Acknowledgements
 
-Thank you to the ISIC 2017/2018 Challenge organizers and open-source community for sharing their repos.
+Thank you to the ISIC 2017/2018 Challenge organizers and [UltraLight-VM-UNet
+](https://github.com/wurenkai/UltraLight-VM-UNet) for sharing their works.
 
 ---
 
