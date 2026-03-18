@@ -1,5 +1,7 @@
 # AULUNet
 This is our official code repository for **"AULUNet: An Adaptive Ultra-Lightweight UNet Framework for Efficient Skin Lesion Segmentation in Resource-Constrained Environments"**.
+Accepted to BMVC2025 as Oral (****Selected only 3.4%****) -- ***[[Paper Link](https://bmvc2025.bmva.org/proceedings/1199/)]***
+
 It covers environment setup, installing dependencies, preparing datasets, and training and testing.
 
 ---
