@@ -111,6 +111,17 @@ python train.py
 3. Outputs will be saved in `./results/`.
 
 ---
+### 4. Citation
+If you find this repository helpful, please consider citing our paper:
+```
+@inproceedings{aulunet,
+author    = {Md Maklachur Rahman and Soon Ki Jung and Tracy Hammond},
+title     = {AULUNet: An Adaptive Ultra-Lightweight U-Net Framework for Efficient Skin Lesion Segmentation in Resource-Constrained Environments},
+booktitle = {36th British Machine Vision Conference 2025, {BMVC} 2025, Sheffield, UK},
+year      = {2025}
+}
+```
+---
 
 ## 4. Acknowledgements
 
